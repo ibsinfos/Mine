@@ -1,11 +1,11 @@
 ---
 ID: 2
-post_title: Sample Page
+post_title: Parts
 author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://criptocoin.wordpress-experts.net/sample-page/
+  http://criptocoin.wordpress-experts.net/parts/
 published: true
 post_date: 2017-08-17 15:30:34
 ---
